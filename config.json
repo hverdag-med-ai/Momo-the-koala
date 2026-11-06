@@ -1,8 +1,11 @@
 {
-  "pause": true,
-  "pause_grund": "Venter på opsætning: Instagram-konto, nøgler og GitHub Pages.",
+  "pause": false,
   "tidszone": "Europe/Copenhagen",
-  "postdage": [0, 2, 5],
+  "postdage": [
+    0,
+    2,
+    5
+  ],
   "tid": "19:00",
   "max_forsinkelse_timer": 12,
   "pages_base_url": "https://hverdag-med-ai.github.io/Momo-the-koala",
